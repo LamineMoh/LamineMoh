@@ -1,6 +1,6 @@
 # Hi there, I'm Mohamed Lamine Zoutat 👋
 
-### Data Scientist & Data Analyst | M.Sc. in Statistics
+### Data Scientist & Analyst | M.Sc. Statistics | Python, SQL, Power BI | Risk Management & Insurance Expert
 I am a results-driven Data Scientist with a strong background in **Financial Risk Management** and **Bancassurance**. I specialize in building end-to-end machine learning pipelines to solve complex business problems.
 
 ---
