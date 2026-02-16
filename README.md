@@ -1,5 +1,5 @@
 # 👨‍💻 Mohamed Lamine Zoutat
-### **Senior Data Analyst & Statistician | M.Sc. Statistics** **Expert en gestion des risques financiers & Intelligence d'affaires**
+### **Data scientist, Data Analyst & Statistician | M.Sc. Statistics** **Expert en gestion des risques financiers & Intelligence d'affaires**
 
 ---
 
